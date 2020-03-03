@@ -1,0 +1,6 @@
+[submodule "ArmbianIO"]
+	path = ArmbianIO
+	url = https://github.com/bitbank2/ArmbianIO.git
+[submodule "MAX7219"]
+	path = MAX7219
+	url = https://github.com/bitbank2/MAX7219.git

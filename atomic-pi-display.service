@@ -1,0 +1,10 @@
+[Unit]
+Description=Atomic-pi's display
+
+[Service]
+ExecStart=/opt/atomic-pi/display
+Type=simple
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
